@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "567bc1319d247202",
+        "id": "345f0adae62285fc",
         "type": "split",
         "children": [
           {
@@ -18,30 +18,30 @@
                   "type": "markdown",
                   "state": {
                     "file": "gm/Map.md",
-                    "mode": "source",
-                    "source": true
+                    "mode": "preview",
+                    "source": false
                   }
                 }
               }
             ]
           },
           {
-            "id": "73892a8ed6c16ed1",
+            "id": "4599098576c2b0e3",
             "type": "tabs",
             "children": [
               {
-                "id": "698a6a40e5577a68",
+                "id": "43cfe6fce4d0950c",
                 "type": "leaf",
                 "state": {
                   "type": "terminal:terminal",
                   "state": {
                     "__type": "8d54e44a-32e7-4297-8ae2-cff88e92ce28",
                     "args": [],
-                    "cwd": "/Users/ryanguild/Library/Mobile Documents/iCloud~md~obsidian/Documents/campaign/gm",
+                    "cwd": "/Users/ryanguild/Library/Mobile Documents/iCloud~md~obsidian/Documents/campaign",
                     "executable": "/bin/zsh",
                     "serial": {
                       "columns": 244,
-                      "data": "\r\n(base) ryanguild@MacBook-Pro gm % ls\r\nMap.md\u001b[10CTises.map\r\n(base) ryanguild@MacBook-Pro gm % cd ..\r\n(base) ryanguild@MacBook-Pro campaign % git status\r\nOn branch main\r\nChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mmodified:   .obsidian/community-plugins.json\r\n\u001b[8Cmodified:   .obsidian/workspace.json\r\n\r\n\u001b[0mUntracked files:\r\n  (use \"git add <file>...\" to include in what will be committed)\r\n\u001b[8C\u001b[31m.obsidian/plugins/terminal/\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n(base) ryanguild@MacBook-Pro campaign % git commit . -m \"initial com\"\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\u001b[23A\u001b[68C",
+                      "data": "\r\n(base) ryanguild@MacBook-Pro campaign % git commit . -m \"update world map\"\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\u001b[39A\u001b[73C",
                       "rows": 40
                     }
                   }
@@ -177,8 +177,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "698a6a40e5577a68",
+  "active": "43cfe6fce4d0950c",
   "lastOpenFiles": [
+    "base.md",
     "gm/Map.md",
     "public/places/Nest Valley.md",
     "public/places/Untitled.canvas"
