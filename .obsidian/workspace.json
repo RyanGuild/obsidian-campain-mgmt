@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "012fe72ad467c830",
+        "id": "b786e3848cf90ddb",
         "type": "split",
         "children": [
           {
@@ -17,14 +17,14 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "gm/Map.md",
+                    "file": "public/places/the known world.md",
                     "mode": "preview",
                     "source": false
                   }
                 }
               },
               {
-                "id": "599a3dff9c72081d",
+                "id": "28943bd9e093477c",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -39,22 +39,22 @@
             "currentTab": 1
           },
           {
-            "id": "938fdd7f4677ba4f",
+            "id": "b54d98aad9ddc4d9",
             "type": "tabs",
             "children": [
               {
-                "id": "07ceaadb1fbbeec0",
+                "id": "8393dfb9dbade9d6",
                 "type": "leaf",
                 "state": {
                   "type": "terminal:terminal",
                   "state": {
                     "__type": "8d54e44a-32e7-4297-8ae2-cff88e92ce28",
                     "args": [],
-                    "cwd": "/Users/ryanguild/Library/Mobile Documents/iCloud~md~obsidian/Documents/campaign",
+                    "cwd": "/Users/ryanguild/Library/Mobile Documents/iCloud~md~obsidian/Documents/campaign/public/places",
                     "executable": "/bin/zsh",
                     "serial": {
                       "columns": 244,
-                      "data": "\r\n(base) ryanguild@MacBook-Pro campaign % git commit . -m \"known world map\"\r\n[main 83eaf5f] known world map\r\n 3 files changed, 25 insertions(+), 11 deletions(-)\r\n(base) ryanguild@MacBook-Pro campaign % git push\r\nEnumerating objects: 13, done.\r\nCounting objects: 100% (13/13), done.\r\nDelta compression using up to 8 threads\r\nCompressing objects: 100% (7/7), done.\r\nWriting objects: 100% (7/7), 1.01 KiB | 1.01 MiB/s, done.\r\nTotal 7 (delta 4), reused 0 (delta 0), pack-reused 0\r\nremote: Resolving deltas: 100% (4/4), completed with 4 local objects.\r\nTo github-personal:RyanGuild/obsidian-campain-mgmt.git\r\n   078c661..83eaf5f  main -> main\r\n(base) ryanguild@MacBook-Pro campaign % git add --all\r\n(base) ryanguild@MacBook-Pro campaign % git commit \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\u001b[25A\u001b[51C",
+                      "data": "\r\n(base) ryanguild@MacBook-Pro places % cd ../..\r\n(base) ryanguild@MacBook-Pro campaign % git commit . -m \"bay of vali map\"\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\u001b[38A\u001b[72C",
                       "rows": 40
                     }
                   }
@@ -190,10 +190,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "07ceaadb1fbbeec0",
+  "active": "8393dfb9dbade9d6",
   "lastOpenFiles": [
-    "gm/Map.md",
+    "public/places/Untitled.md",
     "public/places/the known world.md",
+    "gm/Map.md",
     "base.md",
     "public/places/Nest Valley.md",
     "public/places/Untitled.canvas"
