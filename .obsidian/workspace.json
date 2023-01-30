@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "345f0adae62285fc",
+        "id": "012fe72ad467c830",
         "type": "split",
         "children": [
           {
@@ -22,15 +22,28 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "599a3dff9c72081d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "public/places/the known world.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
-            "id": "4599098576c2b0e3",
+            "id": "938fdd7f4677ba4f",
             "type": "tabs",
             "children": [
               {
-                "id": "43cfe6fce4d0950c",
+                "id": "07ceaadb1fbbeec0",
                 "type": "leaf",
                 "state": {
                   "type": "terminal:terminal",
@@ -41,7 +54,7 @@
                     "executable": "/bin/zsh",
                     "serial": {
                       "columns": 244,
-                      "data": "\r\n(base) ryanguild@MacBook-Pro campaign % git commit . -m \"update world map\"\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\u001b[39A\u001b[73C",
+                      "data": "\r\n(base) ryanguild@MacBook-Pro campaign % git commit . -m \"known world map\"\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\u001b[39A\u001b[72C",
                       "rows": 40
                     }
                   }
@@ -116,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gm/Map.md",
+                "file": "public/places/the known world.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "gm/Map.md",
+                "file": "public/places/the known world.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "gm/Map.md"
+                "file": "public/places/the known world.md"
               }
             }
           }
@@ -177,10 +190,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "43cfe6fce4d0950c",
+  "active": "07ceaadb1fbbeec0",
   "lastOpenFiles": [
-    "base.md",
     "gm/Map.md",
+    "public/places/the known world.md",
+    "base.md",
     "public/places/Nest Valley.md",
     "public/places/Untitled.canvas"
   ]
