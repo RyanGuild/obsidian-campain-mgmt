@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "540d74e7f4b5ea40",
+    "type": "split",
+    "children": [
+      {
+        "id": "347673e97dec1ab1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44a8873d7e4743ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "public/campaign.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "a4c28ac99f7be3d3"
+          }
+        ]
+      },
+      {
+        "id": "b08f4963b3cab4f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "944e6a4d405c17c5",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "public/campaign.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "a4c28ac99f7be3d3"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6d2c358bda6255f0",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "efc4a5fd50c0e706",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "18271556502302c8",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "a574459fa6cdd080",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "52eee79516c43325",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "54937bb72c40b0cd",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ed13ad958d059459",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "public/campaign.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "bdf0c0e89edcc525",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "public/campaign.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "1c52eb1df7af2e14",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "public/campaign.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "944e6a4d405c17c5",
+  "lastOpenFiles": [
+    "base.md"
+  ]
+}
