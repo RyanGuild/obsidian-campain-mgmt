@@ -54,7 +54,7 @@
                     "executable": "/bin/zsh",
                     "serial": {
                       "columns": 244,
-                      "data": "\r\n(base) ryanguild@MacBook-Pro campaign % git commit . -m \"known world map\"\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\u001b[39A\u001b[72C",
+                      "data": "\r\n(base) ryanguild@MacBook-Pro campaign % git commit . -m \"known world map\"\r\n[main 83eaf5f] known world map\r\n 3 files changed, 25 insertions(+), 11 deletions(-)\r\n(base) ryanguild@MacBook-Pro campaign % git push\r\nEnumerating objects: 13, done.\r\nCounting objects: 100% (13/13), done.\r\nDelta compression using up to 8 threads\r\nCompressing objects: 100% (7/7), done.\r\nWriting objects: 100% (7/7), 1.01 KiB | 1.01 MiB/s, done.\r\nTotal 7 (delta 4), reused 0 (delta 0), pack-reused 0\r\nremote: Resolving deltas: 100% (4/4), completed with 4 local objects.\r\nTo github-personal:RyanGuild/obsidian-campain-mgmt.git\r\n   078c661..83eaf5f  main -> main\r\n(base) ryanguild@MacBook-Pro campaign % git add --all\r\n(base) ryanguild@MacBook-Pro campaign % git commit \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\u001b[25A\u001b[51C",
                       "rows": 40
                     }
                   }
